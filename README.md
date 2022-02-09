@@ -18,6 +18,8 @@ This is collecting project source: IDEA, Programming, Design
 - [Making Surprising Background Image](https://coolbackgraounds.io)
 - [Awesome Design source: Canva](https://www.canva.com/ko_kr/)
 
+## 🐲 System Design
+- [Instagram's Architecture](https://medium.com/interviewnoodle/instagram-system-architecture-fdbec22e48ee)
 ---
 - Feel free to post issue or pull request if you want to suggest new useful source.
 - 📱 Contact info: Theo Lim lsmman07@gmail.com
